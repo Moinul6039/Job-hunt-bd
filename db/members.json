@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Emon Ahmed",
+    "designation": "Web Developer",
+    "img": "https://avatars.githubusercontent.com/u/61699936?v=4",
+    "social": [
+      { "facebook": "https://www.facebook.com/EmonAhmedofficialpage/" },
+      { "twitter": "https://twitter.com/EmonAhmed" },
+      { "instagram": "https://www.instagram.com/EmonAhmed" },
+      { "linkedin": "https://www.linkedin.com/in/EmonAhmed" }
+    ],
+    "location": "Dhaka",
+    "rate": 5
+  },
+  {
+    "id": 2,
+    "name": "Aisha Khan",
+    "designation": "Front-End Developer",
+    "img": "https://medium.com/@aishakhan0925/about",
+    "social": [
+      { "facebook": "https://www.facebook.com/AishaKhan" },
+      { "twitter": "https://twitter.com/AishaKhan" },
+      { "instagram": "https://www.instagram.com/AishaKhan" },
+      { "linkedin": "https://www.linkedin.com/in/AishaKhan" }
+    ],
+    "location": "Dhaka",
+    "rate": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Sophia Lee",
+    "designation": "Web Developer",
+    "img": "https://www.idcrawl.com/sophia-lee",
+    "social": [
+      { "facebook": "https://www.facebook.com/SophiaLee" },
+      { "twitter": "https://twitter.com/SophiaLee" },
+      { "instagram": "https://www.instagram.com/SophiaLee" },
+      { "linkedin": "https://www.linkedin.com/in/SophiaLee" }
+    ],
+    "location": "Dhaka",
+    "rate": 4.9
+  },
+  {
+    "id": 4,
+    "name": "Carlos García",
+    "designation": "Backend Developer",
+    "img": "https://theorg.com/org/finnovating/org-chart/carlos-i-garcia",
+    "social": [
+      { "facebook": "https://www.facebook.com/CarlosGarcía" },
+      { "twitter": "https://twitter.com/CarlosGarcía" },
+      { "instagram": "https://www.instagram.com/CarlosGarcía" },
+      { "linkedin": "https://www.linkedin.com/in/CarlosGarcía" }
+    ],
+    "location": "Dhaka",
+    "rate": 4.7
+  }
+]

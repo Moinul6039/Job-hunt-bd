@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "designation": "Frontend Developer",
+    "img": "https://randomuser.me/api/portraits/men/1.jpg",
+    "description": "Passionate about building responsive web designs and interactive applications using React.",
+    "skills": [
+      { "skill": "HTML" },
+      { "skill": "CSS" },
+      { "skill": "JavaScript" },
+      { "skill": "ReactJS" }
+    ],
+    "location": "Bangladesh",
+    "hourly": "50"
+  },
+  {
+    "id": 2,
+    "name": "Carlos",
+    "designation": "Full Stack Developer",
+    "img": "https://randomuser.me/api/portraits/men/2.jpg",
+    "description": "Experienced in both frontend and backend development, building robust web applications.",
+    "skills": [
+      { "skill": "VueJS" },
+      { "skill": "Laravel" },
+      { "skill": "MySQL" },
+      { "skill": "JavaScript" }
+    ],
+    "location": "Spain",
+    "hourly": "65"
+  },
+  {
+    "id": 3,
+    "name": "Liam ",
+    "designation": "DevOps Engineer",
+    "img": "https://randomuser.me/api/portraits/men/3.jpg",
+    "description": "Focused on automating development pipelines and optimizing cloud infrastructure.",
+    "skills": [
+      { "skill": "AWS" },
+      { "skill": "Terraform" },
+      { "skill": "Kubernetes" },
+      { "skill": "CI/CD" }
+    ],
+    "location": "Dublin, Ireland",
+    "hourly": "85"
+  },
+  {
+    "id": 4,
+    "name": "Mikhail",
+    "designation": "Data Scientist",
+    "img": "https://randomuser.me/api/portraits/men/4.jpg",
+    "description": "Expert in analyzing data trends and creating machine learning models to solve complex problems.",
+    "skills": [
+      { "skill": "Python" },
+      { "skill": "TensorFlow" },
+      { "skill": "Pandas" },
+      { "skill": "Scikit-Learn" }
+    ],
+    "location": "Moscow, Russia",
+    "hourly": "95"
+  }
+]

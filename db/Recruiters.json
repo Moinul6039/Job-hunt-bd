@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "LinkedIn",
+    "img": "https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png",
+    "location": "Dhaka",
+    "jobs": "20",
+    "rate": 5
+  },
+  {
+    "id": 2,
+    "name": "Google",
+    "img": "https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png",
+    "location": "Dhaka",
+    "jobs": "15",
+    "rate": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Facebook",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "location": "Dhaka",
+    "jobs": "25",
+    "rate": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Microsoft",
+    "img": "https://cdn-icons-png.flaticon.com/256/732/732221.png",
+    "location": "Dhaka",
+    "jobs": "30",
+    "rate": 4.9
+  }
+]
